@@ -3,10 +3,12 @@
 
 ---
 ## Установка:
-`bash
-cd <ваша директория, куда будете устанавливать проект>
-git clone https://github.com/VasLoad/olimp.git
-`
+1 Шаг:
+`cd <ваша директория, куда будете устанавливать проект>`
+
+2 Шаг:
+`git clone https://github.com/VasLoad/olimp.git`
+
 
 ---
 ## Использование:
